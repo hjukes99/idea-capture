@@ -9,5 +9,3 @@
 - Test result: PASS (npm test).
 - Created Jules session 11325739957433082191 for repo hjukes99/idea-capture.
 - Wrote jules-sessions.json with current sessions for this app.
-- Created Jules session 11325739957433082191 for repo hjukes99/idea-capture.
-- Wrote jules-sessions.json with current sessions for this app.

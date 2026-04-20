@@ -2,3 +2,4 @@ node_modules/
 dist/
 ideas.json
 .vitest/
+config.bat
